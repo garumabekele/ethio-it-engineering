@@ -1,4 +1,4 @@
-# ethio-it-engineering
+# ethio-it
 index.html
 about.html
 contact.html
